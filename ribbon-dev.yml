@@ -1,8 +1,4 @@
-server:
-  port: 8802
 spring:
-  application:
-    name: wareHouseService
   datasource:
     type: com.alibaba.druid.pool.DruidDataSource
     driverClassName: com.mysql.jdbc.Driver
